@@ -120,7 +120,7 @@ import {
       company_name: "Home",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "February 2023 - Presnt",
+      date: "February 2022 - Presnt",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -149,7 +149,7 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Damodar optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
@@ -177,7 +177,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/damodar9767/shusiii",
     },
     {
       name: "XOXO",
