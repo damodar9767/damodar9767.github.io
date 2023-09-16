@@ -20,6 +20,7 @@ import {
     tesla,
     shopify,
     carrent,
+    prompts,
     jobit,
     tripguide,
     threejs,
@@ -178,6 +179,30 @@ import {
       ],
       image: carrent,
       source_code_link: "https://github.com/damodar9767/shusiii",
+      live_link: "https://shusiii.vercel.app",
+    },
+    {
+      name: "Prompts.ia",
+      description:
+        "Prompts.ia: Your AI-driven creative prompt companion. Unlock inspiration, craft, and exchange imaginative prompts with ease, revolutionizing your creative process.",
+      tags: [
+        {
+          name: "next.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: prompts,
+      source_code_link: "https://github.com/damodar9767/sharePrompts",
+      live_link: "https://share-prompts-rosy-sigma.vercel.app",
+
     },
     {
       name: "XOXO",
@@ -199,6 +224,8 @@ import {
       ],
       image: jobit,
       source_code_link: "https://github.com/",
+      live_link: "",
+
     },
     
   ];

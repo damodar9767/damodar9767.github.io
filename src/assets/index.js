@@ -11,6 +11,7 @@ import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
+import live from "./live.svg";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
@@ -29,7 +30,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import prompts from './prompts.png'
 export {
   logo,
   backend,
@@ -43,6 +44,7 @@ export {
   docker,
   figma,
   git,
+  live,
   html,
   javascript,
   mongodb,
@@ -59,4 +61,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  prompts,
 };
